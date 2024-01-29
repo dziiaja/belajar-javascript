@@ -1,1 +1,1 @@
-alert('Selamat Siang'); 
+alert('Sweather'); 
